@@ -77,13 +77,14 @@ flutter run
 
 ```
 lib/
-├── main.dart
 ├── auth_service.dart
+├── firebase_options.dart
 ├── home_page.dart
 ├── login_page.dart
+├── main.dart
 ├── register_page.dart
 ├── data/
-│   └── turkey_locations.dart       # 81 il, 972 ilçe
+│   └── turkey_locations.dart
 ├── models/
 │   ├── book_model.dart
 │   ├── reading_goal_model.dart
