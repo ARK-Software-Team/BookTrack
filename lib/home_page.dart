@@ -10,6 +10,7 @@ import 'screens/stats_page.dart';
 import 'screens/trade_page.dart';
 import 'screens/settings_page.dart';
 
+
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
 
